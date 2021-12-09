@@ -5,7 +5,7 @@ import { Link } from "gatsby";
 const SSRpage = ({ serverData }) => {
   return (
     <>
-      <h1>SSR page 1 - HOME</h1>
+      <h1>SSR page 1 - HOME </h1>
       <img
         style={{ width: "300px" }}
         alt="A random dog"
